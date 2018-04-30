@@ -6,7 +6,7 @@ At the moment capturing and documenting ideas :-)
 ## Agenda
 
 0. Introduction of People
-0. Use Case Introduction: Customer 360 (?)
+0. Use Case Introduction: Customer 360, Connected Car (?)
 0. Getting to know the Infrastructure
 0. Getting to know the data:
    0.
@@ -17,4 +17,3 @@ At the moment capturing and documenting ideas :-)
 0. Create a data model
 0. Secure data
 0. Govern data
-0. 
